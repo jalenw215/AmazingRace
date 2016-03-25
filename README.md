@@ -7,4 +7,4 @@ The Assets folder has all of the scences used to make each level, and the main m
 
 Here is a link to a playable online version: 	
 
-goo.gl/Gu4JUc
+http://pixbix.com/games2015Unity/jaw206/AMaze-ingRunner_JWFinal/WebGL/
